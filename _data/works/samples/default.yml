@@ -15,7 +15,7 @@ description: |
 
 # A image representing the book,
 # usually the front cover.
-image: "cover.jpg"
+image: "cover.png"
 
 # Other contributors
 contributor: ""
