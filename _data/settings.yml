@@ -72,7 +72,7 @@ web:
   # - 'titles' to show page titles at pagination,
   # - 'title-arrows' to show page titles and arrows,
   # - 'arrows' to use only arrows.
-  pagination-type: "title-arrows"
+  pagination-type: "direction"
   # --------
   # Masthead
   # --------
@@ -81,7 +81,7 @@ web:
   # If not set, book-title is default.
   # Note that breadcrumbs slows your Jekyll build significantly.
   masthead:
-    content: breadcrumbs
+    content: page-title
   # -----------------
   # Content accordion
   # -----------------
