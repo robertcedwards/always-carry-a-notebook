@@ -18,7 +18,7 @@ description: |
 
 # A image representing the book,
 # usually the front cover.
-image: "cover.jpg"
+image: "cover.png"
 
 # Publisher, imprint or brand name
 publisher: ""
@@ -40,14 +40,14 @@ language: "en"
 
 # Official, original publication date
 # YYYY-MM-DD
-date: "2022-01-01"
+date: "2023-11-11"
 
 # Date of last revision
 # YYYY-MM-DD
-modified: "2022-01-01"
+modified: "2023-11-11"
 
 # Book type, e.g. Novel, Poetry, Memoir
-type: ""
+type: "Productivity"
 
 # Subject areas
 # E.g. BISAC: https://bisg.org/page/BISACEdition
